@@ -1,3 +1,5 @@
 Just to try on Colab 
 
-Original work: https://github.com/FGiuliari/Trajectory-Transformer.git
+DISCLAIMER: ONLY ACADEMICAL REASON
+
+THIS WORK HAS BEEN FORKED FROM https://github.com/FGiuliari/Trajectory-Transformer.git
